@@ -1,1 +1,20 @@
-{}
+{
+  "name": "judigot",
+  "version": "1.0.0",
+  "description": "<!--\r **judigot/judigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judigot/judigot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judigot/judigot/issues"
+  },
+  "homepage": "https://github.com/judigot/judigot#readme"
+}

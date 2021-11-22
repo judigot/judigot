@@ -1,6 +1,6 @@
-### judigot.epizy.com
-[I'm an inline-style link](https://www.google.com)
+[View my projects here](judigot.epizy.com)
 <!--
+### judigot.epizy.com
 **judigot/judigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

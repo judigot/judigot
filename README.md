@@ -1,4 +1,4 @@
-[Check out my projects here](http://www.judigot.epizy.com/)
+[Check out my projects here](judigot.github.io/portfolio)
 <!--
 ### judigot.epizy.com
 **judigot/judigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
